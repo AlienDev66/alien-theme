@@ -1,0 +1,21 @@
+{
+    "name": "alien-theme",
+    "displayName": "alien-theme",
+    "description": "Tema criado por alien shikadai.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "alien-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alien-theme-color-theme.json"
+            }
+        ]
+    }
+}
