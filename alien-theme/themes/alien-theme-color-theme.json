@@ -2,9 +2,9 @@
   "name": "alien-theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#01000c",
-    "editor.foreground": "#0d003a",
-    "activityBarBadge.background": "#1f00cc",
+    "editor.background": "#131624",
+    "editor.foreground": "#eeffff",
+    "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
   },
   "tokenColors": [
@@ -72,7 +72,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#2c6266"
+        "foreground": "#f07178"
       }
     },
     {
@@ -92,7 +92,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#ffffff"
       }
     },
     {
