@@ -17,5 +17,8 @@
                 "path": "./themes/alien-theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.81.1"
     }
 }
