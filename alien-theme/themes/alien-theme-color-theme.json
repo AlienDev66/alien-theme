@@ -2,11 +2,12 @@
   "name": "alien-theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#131624",
+    "editor.background": "#191414",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": "#1DB954",
     "sideBarTitle.foreground": "#bbbbbb"
   },
+  //#4cff55"
   "tokenColors": [
     {
       "name": "Comment",
@@ -61,7 +62,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#4cff55"
       }
     },
     {
@@ -130,7 +131,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#00eeff"
       }
     },
     {
